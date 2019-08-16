@@ -3,3 +3,5 @@ This notebook introduces and implements a Combined Capsule Network in Keras and 
 sentiment-capsule-networks.png
 
 ![Screenshot](sentiment-capsule-networks.png)
+
+Keywords: Text Classification | Sentiment Classification  |  CapsNET    |    Capsule Network
